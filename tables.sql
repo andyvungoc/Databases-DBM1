@@ -21,7 +21,7 @@ CREATE TABLE track (
   track_name TEXT NOT NULL,
   track_duration INT CHECK (track_duration > 0),
   release_year INT CHECK (release_year BETWEEN 1900 AND 2100),
-  popularity INT CHECK (popularity BETWEEN 0 AND 100),  -- optional; remove if unused
+  --popularity INT CHECK (popularity BETWEEN 0 AND 100),  -- ta bort?
   album_id TEXT REFERENCES album(album_id) ON DELETE SET NULL,
   artist_id TEXT REFERENCES artist(artist_id) ON DELETE SET NULL,
   genre_id TEXT REFERENCES genre(genre_id) ON DELETE SET NULL
