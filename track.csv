@@ -1,0 +1,61 @@
+track_id,track_name,track_duration,release_year,popularity,album_id,artist_id,genre_id
+t1,Anti-Hero,200000,2022,95,al1,a1,g1
+t2,Lavender Haze,210000,2022,90,al1,a1,g1
+t3,Love Story,235000,2008,94,al22,a1,g1
+t4,As It Was,210000,2022,99,al14,a13,g1
+t5,Watermelon Sugar,189000,2019,97,al14,a13,g1
+t6,Levitating,203000,2020,96,al20,a19,g1
+t7,Don’t Start Now,203000,2020,95,al20,a19,g1
+t8,Easy On Me,220000,2021,93,al9,a8,g1
+t9,Hello,295000,2015,94,al27,a8,g1
+t10,Sign of the Times,270000,2017,90,al14,a13,g1
+t11,Enemy,195000,2021,92,al3,a3,g2
+t12,Bones,190000,2022,88,al3,a3,g2
+t13,Believer,204000,2017,95,al23,a3,g2
+t14,Viva la Vida,242000,2008,98,al25,a9,g2
+t15,Paradise,278000,2011,96,al25,a9,g2
+t16,Do I Wanna Know?,272000,2013,93,al16,a15,g2
+t17,R U Mine?,202000,2013,91,al16,a15,g2
+t18,Yellow,268000,2000,92,al25,a9,g2
+t19,In My Feelings,210000,2018,85,al4,a4,g3
+t20,God’s Plan,200000,2018,97,al4,a4,g3
+t21,Nonstop,215000,2018,88,al4,a4,g3
+t22,HUMBLE.,177000,2017,95,al12,a11,g3
+t23,DNA.,185000,2017,93,al12,a11,g3
+t24,The Hills,244000,2015,94,al2,a2,g3
+t25,Crew Love,238000,2011,88,al4,a4,g6
+t26,Love On Top,255000,2011,97,al21,a20,g6
+t27,Formation,220000,2016,94,al28,a20,g6
+t28,Starboy,230000,2016,98,al2,a2,g4
+t29,Blinding Lights,200000,2020,99,al6,a2,g4
+t30,"Harder, Better, Faster, Stronger",224000,2001,93,al5,a5,g4
+t31,One More Time,230000,2001,95,al5,a5,g4
+t32,Get Lucky,248000,2013,97,al29,a5,g4
+t33,Instant Crush,317000,2013,91,al29,a5,g4
+t34,Midnight City,252000,2011,92,al29,a5,g4
+t35,Summertime Sadness,261000,2012,94,al13,a12,g5
+t36,Born to Die,296000,2012,93,al13,a12,g5
+t37,West Coast,271000,2014,90,al13,a12,g5
+t38,Liability,178000,2017,88,al30,a12,g5
+t39,Team,195000,2013,91,al30,a12,g5
+t40,Therefore I Am,174000,2020,92,al7,a6,g5
+t41,Treasure,178000,2013,93,al17,a16,g6
+t42,24K Magic,227000,2016,95,al17,a16,g6
+t43,Talking to the Moon,216000,2012,90,al24,a16,g6
+t44,Uptown Funk,270000,2014,99,al24,a16,g6
+t45,No Tears Left To Cry,205000,2018,92,al19,a19,g6
+t46,Bad Habit,196000,2022,88,al21,a20,g6
+t47,When the Party’s Over,198000,2018,94,al7,a6,g5
+t48,Everything I Wanted,230000,2019,93,al7,a6,g5
+t49,Stay,141000,2021,98,al26,a10,g6
+t50,Circles,215000,2019,96,al11,a10,g6
+t51,Wow.,155000,2018,90,al26,a10,g6
+t52,Congratulations,215000,2017,95,al26,a10,g6
+t53,Elastic Heart,257000,2016,91,al19,a18,g5
+t54,Cheap Thrills,225000,2016,96,al19,a18,g5
+t55,Without Me,201000,2018,90,al18,a17,g5
+t56,Control,206000,2021,91,al18,a17,g5
+t57,Adore You,230000,2019,93,al14,a13,g1
+t58,Ocean Eyes,200000,2016,94,al7,a6,g1
+t59,Save Your Tears,220000,2020,94,al6,a2,g1
+t60,Take My Breath,219000,2021,91,al6,a2,g4
