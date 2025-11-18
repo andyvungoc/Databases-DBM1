@@ -1,5 +1,3 @@
--- /Users/andyvungoc/TDA553/Databases-DBM1/insertion.sql
--- Idempotent reload: wipe tables before loading
 BEGIN;
 TRUNCATE TABLE track, album, artist, genre RESTART IDENTITY CASCADE;
 COMMIT;

@@ -1,5 +1,4 @@
--- /Users/andyvungoc/TDA553/Databases-DBM1/reset.sql
--- Drop in FK-safe order, then rebuild & reload
+
 DROP TABLE IF EXISTS track CASCADE;
 DROP TABLE IF EXISTS album CASCADE;
 DROP TABLE IF EXISTS artist CASCADE;

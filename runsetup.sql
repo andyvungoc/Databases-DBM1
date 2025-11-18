@@ -1,4 +1,4 @@
--- /Users/andyvungoc/TDA553/Databases-DBM1/runsetup.sql
+
 \i '/Users/andyvungoc/TDA553/Databases-DBM1/tables.sql'
 \i '/Users/andyvungoc/TDA553/Databases-DBM1/insertion.sql'
 
